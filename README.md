@@ -12,3 +12,8 @@ HTML5: For structuring the content.
 CSS3: For styling the application and ensuring a responsive layout.
 JavaScript (ES6): For handling the logic and interactions within the application.
 API Integration: For fetching and displaying product data dynamically.
+
+### Future Enhancements
+Pagination: Adding pagination to handle large sets of products.
+Advanced Filters: Implementing more filtering options like category, price range, and ratings.
+Sorting Options: Allowing users to sort products by price, popularity, etc.
